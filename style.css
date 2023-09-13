@@ -1,0 +1,17 @@
+.heading{
+    top: 0;
+    margin: 0;
+    text-align: center;
+    width:1500;
+    height: 100px;
+    background: linear-gradient(DeepSkyBlue 0%, CornflowerBlue 25%,RoyalBlue 50%, #000000 100%);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 40px;
+    color: grey;
+}
+#song{
+    background-color:cadetblue;
+    width: 400px;
+    border-radius: 20px;
+}
